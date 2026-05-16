@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on May 16, 2026 at 11:46 am by All in One SEO Pro v4.8.3.2 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://makeupstudiobysuu.com/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-05-16T01:50:27+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-05-15T22:52:42+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/page-sitemap2.xml]]></loc>
+		<lastmod><![CDATA[2025-11-16T06:53:52+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/slider-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-03-14T09:30:14+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/our-services-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-03-08T10:45:28+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/testimonials-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-09-04T10:36:58+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/web-story-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-12-16T10:33:19+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/post-archive-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-12-16T10:33:19+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-05-16T01:50:27+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/post_tag-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-10-13T18:30:02+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/web_story_category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-12-16T10:33:19+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://makeupstudiobysuu.com/web_story_tag-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-12-16T10:33:19+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
